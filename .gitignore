@@ -91,9 +91,5 @@ crashlytics-build.properties
 Assets/Temp.meta
 Assets/Temp/*
 *~!~*
-Assets/StreamingAssets/PerformanceTestRunInfo.json*
 Assets/InitTestScene*.unity*
 Assets/Heureka.meta
-SerializedBuildInfo/*
-ServerData/*
-TeamCityArtifacts/*
